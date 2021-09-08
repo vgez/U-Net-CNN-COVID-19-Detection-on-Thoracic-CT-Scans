@@ -21,8 +21,8 @@ The final project in the course **DD2424 Deep Learning for Data Science** at KTH
 
 ## Technologies
 
--   [Python 3](https://www.python.org/)
--   [TensorFlow 2](https://www.tensorflow.org/)
+-   [Python3](https://www.python.org/)
+-   [TensorFlow2](https://www.tensorflow.org/)
 -   [Keras](https://keras.io/)
 -   [Scikit-learn](https://sklearn.org/)
 
