@@ -6,16 +6,16 @@ The final project in the course DD2424 Deep Learning for Data Science at KTH Roy
 
 <ul>
     <li>
-        <strong>Valdemar Gezelius</strong> - <i style="text-decoration: none;">vgez@kth.se</i>
+        <strong>Valdemar Gezelius</strong>
     </li>
     <li>
-        <strong>Lukas Frösslund</strong> - <i style="text-decoration: none;">lukasfro@kth.se</i>
+        <strong>Lukas Frösslund</strong>
     </li>
     <li>
-        <strong>Maximilian Auer</strong> - <i style="text-decoration: none;">maue@kth.se</i>
+        <strong>Maximilian Auer</strong>
     </li>
     <li>
-        <strong>Kristin Evegård</strong> - <i style="text-decoration: none;">evegard@kth.se</i>
+        <strong>Kristin Evegård</strong>
     </li>  
 </ul>
 
