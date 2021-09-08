@@ -6,16 +6,16 @@ Final project in the course DD2424 Deep Learning for Data Science at KTH Royal I
 
 <ul>
     <li>
-        <strong>Maximilian Auer</strong> - <i style="text-decoration: none;">maue@kth.se</i>
+        <strong>Valdemar Gezelius</strong> - <i style="text-decoration: none;">vgez@kth.se</i>
     </li>
-    <li>
-        <strong>Kristin Evegård</strong> - <i style="text-decoration: none;">evegard@kth.se</i>
-    </li>  
     <li>
         <strong>Lukas Frösslund</strong> - <i style="text-decoration: none;">lukasfro@kth.se</i>
     </li>
     <li>
-        <strong>Valdemar Gezelius</strong> - <i style="text-decoration: none;">vgez@kth.se</i>
+        <strong>Maximilian Auer</strong> - <i style="text-decoration: none;">maue@kth.se</i>
+    </li>
+    <li>
+        <strong>Kristin Evegård</strong> - <i style="text-decoration: none;">evegard@kth.se</i>
     </li>  
 </ul>
 
@@ -34,8 +34,8 @@ Binary cross-entropy loss, Weighted binary cross-entropy loss and Dice loss were
 
 Results were encouraging, with a Dice score of ~ 0.886.
 
-More details available in <a href="https://github.com/Frosslund/U-Net-CNN-COVID-19-Detection-on-Thoracic-CT-Scans/blob/main/Project_Report.pdf">project report</a>
+More details available in <a href="https://github.com/vgez/U-Net-CNN-COVID-19-Detection-on-Thoracic-CT-Scans/blob/main/Project_Report.pdf">project report</a>
 
 ## Qualitative Results
 
-![qual_comparison](https://github.com/Frosslund/U-Net-CNN-COVID-19-Detection-on-Thoracic-CT-Scans/blob/main/images/qual_comparison.png?raw=true)
+![qual_comparison](https://github.com/vgez/U-Net-CNN-COVID-19-Detection-on-Thoracic-CT-Scans/blob/main/images/qual_comparison.png?raw=true)
